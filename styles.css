@@ -3,7 +3,7 @@ p{
 }
 * {
     margin: 1%;
-    
+    box-sizing: border-box;
 }
 header{
     text-align: center;
@@ -32,5 +32,13 @@ h2{
     text-align: center;
     border: 2px solid black;
     margin: 2%;
+    padding: 1px;
+    font-weight: 350 px;
+    height: 40px ;
+    
+}
 
+footer{
+    color: initial;
+    color: rgb(235, 235, 0);
 }
