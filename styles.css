@@ -1,0 +1,17 @@
+p{
+    color: rgb(211, 8, 8);
+}
+* {
+    margin: 4%;
+}
+.consultoria {
+    font-weight: 200;
+}
+ul{
+    color: blue;
+}
+
+button {
+    background-color: rgb(34, 83, 34);
+    color: white;
+}
