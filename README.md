@@ -1,4 +1,4 @@
-# Mi Proyetco con CSS
+# Mi Proyecto con CSS
 
 El objetivo es poder reflejar los conocimientos aprendidos en la primera clase de DEV.F. Por lo cual, he decidido copiar una página web de la empresa donde trabajo.
 
