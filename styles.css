@@ -2,11 +2,13 @@ p{
     color: rgb(211, 8, 8);
 }
 * {
-    margin: 1%;
+    padding: 10px;
     box-sizing: border-box;
 }
 header{
     text-align: center;
+    padding-top: 10 px;
+    padding-left: 10px;
 }
 nav{
     text-align: center;
@@ -38,7 +40,7 @@ h2{
     
 }
 
-footer{
+footer>p{
     color: initial;
-    color: rgb(235, 235, 0);
+    color: rgb(227, 235, 0);
 }
